@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562849540 source:d:\c++ project\volley\volleybal\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+	<windows.h>
+
