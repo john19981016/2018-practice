@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1562849966 source:d:\c++ project\summerproject\liar's dice\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
